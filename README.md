@@ -17,10 +17,12 @@ In order to use this data to make powerful prediective assumptions about the mar
 It is apparent from an analysis of skew, open interest at strike, and
 (circularly) the eQects of GEX, however, that the practice of call overwriting
 (and stock collaring) drives the market for calls.
+
 #3. Put options are bought by investors; sold by market-makers. As with calls,
 puts are primarily used by investors who are already exposed to the
 underlying market, and who are looking to modify the return pro5le of their
 portfolio by using options. The “protective put” commands a premium for this reason, thus influencing the vertical skew of index options
+
 #4. Market-makers hedge precisely to the option delta. If market-makers hedged
 their deltas every time an option's delta changed, they would be trading
 incessantly. In reality, market-makers utilize “hedging bands” to balance the
